@@ -20,4 +20,4 @@ class Array:
 m = Array()
 m.printHello()
 m.printHello()
-print("やば，完璧やん")
+print("やば，完璧やんアバババ")
