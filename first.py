@@ -1,5 +1,5 @@
 import numpy as np
-# import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt
 # x = np.array([1.0, 2.0, 3.0])
 # print(x)
 # type(x)
@@ -16,8 +16,8 @@ class Array:
         print(self.x)
 
 
-
-m = Array()
-m.printHello()
-m.printHello()
-print("やば，完璧やんアバババ")
+if __name__ == "__main__":
+    m = Array()
+    m.printHello()
+    m.printHello()
+    print("やば，完璧やんアバババ")
